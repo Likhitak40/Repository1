@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main() {
+    char c = 'k';
+    printf("%d",c);
+    return 0;
+}
